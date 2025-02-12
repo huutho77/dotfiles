@@ -2,3 +2,4 @@
 - sudo
 - jq
 - curl
+- fzf # FuzzyFinder
